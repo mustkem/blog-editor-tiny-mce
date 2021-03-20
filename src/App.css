@@ -65,3 +65,12 @@ img.align-right {
 .tox-notifications-container{
   display: none;
 }
+
+.preview-modal{
+  width:90vw;
+  max-width: 90vw;
+}
+
+.modal-dialog{
+  max-width: none;
+}
